@@ -1,0 +1,23 @@
+{
+  "name": "graphql-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EddyBautista-93/GraphQLIntro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EddyBautista-93/GraphQLIntro/issues"
+  },
+  "homepage": "https://github.com/EddyBautista-93/GraphQLIntro#readme",
+  "devDependencies": {
+    "graphpack": "^1.0.9"
+  }
+}
