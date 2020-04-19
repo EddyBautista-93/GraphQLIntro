@@ -1,0 +1,6 @@
+#  this schema.graphql file is 
+#  going to be our entire GraphQL schema
+
+type Query {
+  hello: String
+}
