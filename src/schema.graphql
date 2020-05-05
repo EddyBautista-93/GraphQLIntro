@@ -1,6 +1,9 @@
 #  this schema.graphql file is 
 #  going to be our entire GraphQL schema
 
-type Query {
-  hello: String
+type User {
+  id: ID!
+  name: String!
+  email: String!
+  age: Int
 }
